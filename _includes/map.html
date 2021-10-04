@@ -1,0 +1,5 @@
+{% if site.google.api_key %}
+<div id="map"></div>
+<script type="text/javascript" src="{{ site.baseurl }}/assets/js/maps.js"></script>
+<script type="text/javascript" async defer src="https://maps.googleapis.com/maps/api/js?key={{ site.google.api_key }}&callback=initMap"></script>
+{% endif %}

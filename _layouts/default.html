@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+
+<html>
+
+	{% include head.html %}
+
+	<body>
+
+		{% include header.html %}
+
+		<section class="main">
+			<div class="page-header">
+                {% if page.hide_title %}
+                {% else %}
+                <h3>{{ page.title }}</h3>
+                {% endif %}
+			</div>
+			<article class="content">
+				{{ content }}
+			</article>
+		</section>
+
+		{% include nav-section-toggle.html %}
+
+	</body>
+</html>

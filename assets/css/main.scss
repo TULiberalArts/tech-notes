@@ -1,0 +1,44 @@
+---
+layout: null
+sitemap: false
+---
+
+$baseurl: "{{ site.baseurl }}";
+$body-background-color: #2B2E31;
+
+$content-max-width: 800px;
+$content-color: #222;
+$content-background-color: #fff;
+
+$brand-colour: #A41E35;
+$brand-colour-light: mix($brand-colour, $content-background-color, 10%);
+
+$nav-header-background-color: #2c2c2c;
+$nav-header-height: 60px;
+$nav-background-color: #F2EFE8 !important;
+$nav-width: 300px;
+
+$space: 20px;
+
+$mobile-break: 700px;
+$full-width-break: $nav-width + ($space * 4) + $content-max-width;
+
+$font-serif: 'Faustina', Georgia, serif !default;
+$font-sans: 'Roboto', 'Arial', Helvetica, sans-serif !default;
+$font-sans-con: 'Roboto Condensed', 'Arial', Helvetica, sans-serif !default;
+$font-sitename: 'Faustina', Georgia, serif !default;
+
+#map {
+    width: 100%;
+    height: 350px;
+    /*margin-top: 100px;*/
+    margin: 30px 0;
+}
+
+@import "mixins";
+@import "normalize";
+@import "pygments";
+@import "typography";
+@import "code";
+@import "tables";
+@import "layout";
