@@ -33,7 +33,7 @@ out of offices close to the locations they support.
 
 Computer labs located within the College Liberal Arts are directly supported by
 Liberal Arts Information Technology staff (CLA IT). CLA IT offices are located
-in the front of the Anderson Hall computer lab in room 21.
+in the front of the Mazur Hall computer lab in room 21.
 
 ## The Help Desk
 
