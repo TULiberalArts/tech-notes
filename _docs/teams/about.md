@@ -12,7 +12,7 @@ edit files in real time, and host audio and video calls.
 
 Every active account holder at Temple University has access to Office 365 which
 includes Microsoft Teams. Since Microsoft Teams is linked directly to
-your Temple Universit AccessNet username, your directory information and
+your Temple University AccessNet username, your directory information and
 free/busy status is automatically available in Teams.
 
 Teams is available on all major platforms including [Windows][6], [macOS][6],
