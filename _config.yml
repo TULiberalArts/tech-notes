@@ -12,6 +12,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-feed
+  - jekyll-relative-links
 
 exclude:
   - Gemfile
