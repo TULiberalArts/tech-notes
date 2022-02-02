@@ -1,92 +1,100 @@
 ---
-title: About Microsoft Teams
+title: About Teams
 category: Teams
 order: 1
 ---
 
 ![]({{ '/assets/img/teams-logo.png' | relative_url }})
 
-[Microsoft Teams][8] is a hub for collaborative teamwork in [Office 365][7].
-Teams is commonly used to chat directly with individuals or groups, share and
-edit files in real time, and host audio and video calls.
+## What is Microsoft Teams?
 
-Every active account holder at Temple University has access to Office 365 which
-includes Microsoft Teams. Since Microsoft Teams is linked directly to
-your Temple University AccessNet username, your directory information and
-free/busy status is automatically available in Teams.
+[Microsoft Teams][8] is a workspace for real-time collaboration and
+communication, meetings, and file sharing. Teams serves as a hub for
+collaborative teamwork in [Microsoft 365][7] and is commonly used to chat
+directly with individuals or groups, share and edit files in real time,
+and host audio & video calls. Think of Teams as a combination of Zoom,
+Slack, and Dropbox all in one application.
 
-Teams is available on all major platforms including [Windows][6], [macOS][6],
-[GNU/Linux][6], [iOS][5], [Android][5], and the [Web][4]. All of your chat
-history and files will synchronize in real time across any device that you use
-with Microsoft Teams.
+You can find additional information about Teams in the [Teams FAQ](../faq).
 
-## Channels
+### Who can use Teams?
 
-In Microsoft Teams, teams are groups of people brought together for work, projects, or common interests.
+Every active account holder at Temple University has access to Microsoft
+365 which includes access to Microsoft Teams. Since Teams is linked
+directly to your Temple University AccessNet username, your directory
+information and free/busy status will be automatically visible and
+available in Teams.
 
-Teams are made up of two types of channels — standard (available and visible to everyone) and private (focused, private conversations with a specific audience). Each channel is built around a topic like "Team Events," a department name, or just for fun. Channels are where you hold meetings, have conversations, and work on files together.
+You can also collaborate with external university partners and colleagues by
+inviting them to a shared team or adding them as a guest to a channel.
 
-The tabs at the top of each channel link to your favorite files, apps, and services.
+### What can Teams do?
 
-It’s important to remember that channels do not have a membership. You don’t
-“join” a channel. You join the team. Once you are a member of the team, you can
-see all the channels in it unless hidden. 
+Use teams to meet with students and collaborate with colleagues. With Teams you
+can organize a meeting via video call, share and record your screen, and
+preserve the meeting minutes in a shared Word document accessible to everyone
+in the team.
 
-Learn more about [Teams and Channels][16].
+With Teams you can:
 
-## Posts
+- Start a Team for a research project to store and manage project files
+  and related correspondence.
+- Create a Team to use with students in class to support live chat,
+  allowing students to engage directly with the topic of each class.
+- Use a Team to hold virtual "office hours" with students.
+- Hold committee meetings and plan coursework all in one location.
+- Collaborate with external colleagues at another institution by [adding
+  them as a guest][19] or inviting them to a shared channel. 
 
-The Posts tab is where you post anything you want to say to channel members.
+### How do I get Teams?
 
-Learn more about [creating and formatting a new post][17] and [how to post a message to multiple channels][18].
+You can begin using Teams on the Web right away by signing in with your
+Temple University AccessNet account at
+[teams.microsoft.com](https://teams.microsoft.com).
 
-## Files
+Teams for Desktop is automatically included on all Temple University
+managed desktops and laptops, including all Liberal Arts managed
+classrooms, kiosks, laptops, and office workstations.
 
-Files that you upload to a channel are stored in your team's SharePoint folder. These files are available in the Files tab at the top of each channel.
+Learn how to [access Teams for Desktop][6] or [install Teams on your mobile
+device][5].
 
-Files that you upload to a one-on-one or group chat are stored in your OneDrive for Business folder and are shared only with the people in that conversation. These are available in the Files tab at the top of a chat.
+## Start Using Teams
 
-When you upload a file to Teams it is automatically made available to other members of the team. This means multiple people can collaborate on a file at
-the same time during a Teams meeting.
+Learn how to [create your first Team][20].
 
-Learn more about [collaborating on files in Teams][14] and how to [share files
-using Teams][15].
+Note: Public Teams can be joined by anyone at the university. Private
+teams can only be joined if a Team owner invites them. To learn how to
+change the privacy status for a Team, see [Make A Public Team Private in
+Teams][21].
 
-## Apps
+To learn about the various roles within a Team, see [Team Owner, Member
+and Guest Capabilities in Teams][22].
+ 
+To learn how to adjust the permissions of your Team members, see [Manage
+Team Settings and Permissions in Teams][23].
 
-Apps let you do more in Teams. Many of the third-party tools, files, and dashboards your organization already uses can be added right into Teams.
+To learn more about Teams, [check out the FAQ](../faq) and visit
+[its.temple.edu/teams](https://its.temple.edu/teams).
 
-Learn more about [using Apps in Microsoft Teams][9].
+## Getting Help
 
-## Chat
+Learning Resources for Microsoft Teams are available at
+[its.temple.edu/teams](https://its.temple.edu/teams). Resources include
+Microsoft Teams training and Quick Start Guides, Temple Tech Bits articles, and
+a free recorded training series created by Microsoft and NCCE specifically for
+Temple University.
 
-Chat lets you have a private 1:1 conversation with a student or
-colleague. You can jump directly into a Teams call, video chat, or add
-additional guests to your private chat. Of course, you can also use these same
-features from your [Teams mobile app][5] on iOS and Android devices.
+If you have additional questions or would like to schedule a meeting with
+Liberal Arts IT staff to discuss how to get started using Teams in your
+department or research area, please [submit a TUhelp
+request](../../get-help).
 
-Learn more about [starting a chat in Teams][10].
+---
 
-## Calendar
+## Related Pages
 
-The Calendar app in Teams shows your personal Microsoft calendar. This is the same calendar that is available via Outlook.
-
-To create a Teams meeting, click on Calendar, then New Meeting. Fill out the
-Details form and click Send. Teams will automatically add a meeting URL to the
-body of the calendar invitation message that will allow attendees to join the
-meeting. 
-
-By default, you can invite anyone to a meeting, even if they are not members of
-your organization. When it's time to join, clicking on the URL in the
-invitation offers the opportunity to launch or download the Teams app, or join
-using a web browser. 
-
-Learn how to [schedule a meeting in Teams][11], [join a meeting][13], and
-[manage your Teams calendar][12]. 
-
-
-### Related Pages
-
+- [Teams FAQ](../faq)
 - [Teams for Web][4]
 - [Teams for Mobile][5]
 - [Teams for Desktop][6]
@@ -110,3 +118,8 @@ Learn how to [schedule a meeting in Teams][11], [join a meeting][13], and
 [16]: https://support.microsoft.com/en-us/office/overview-of-teams-and-channels-c3d63c10-77d5-4204-a566-53ddcf723b46
 [17]: https://support.microsoft.com/en-us/office/create-and-format-a-post-e66777da-636b-49eb-9408-b0d88b212885
 [18]: https://support.microsoft.com/en-us/office/post-a-message-to-multiple-channels-2cdaa17e-d548-46e7-907d-4e50b7e8f8b9
+[19]: https://support.microsoft.com/en-us/office/add-guests-to-a-team-in-teams-fccb4fa6-f864-4508-bdde-256e7384a14f
+[20]: https://docs.microsoft.com/en-us/microsoftteams/get-started-with-teams-create-your-first-teams-and-channels
+[21]: https://support.microsoft.com/en-us/office/make-a-public-team-private-in-teams-6f324fbc-6599-4612-8daa-ff5d35a746bf
+[22]: https://support.microsoft.com/en-us/office/team-owner-member-and-guest-capabilities-in-teams-d03fdf5b-1a6e-48e4-8e07-b13e1350ec7b
+[23]: https://support.microsoft.com/en-us/office/manage-team-settings-and-permissions-in-teams-ce053b04-1b8e-4796-baa8-90dc427b3acc
