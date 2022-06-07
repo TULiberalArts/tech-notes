@@ -7,7 +7,7 @@ order: 1
 ## What is Adobe Creative Cloud?
 
 [Adobe Creative Cloud][1] is a suite of apps, web services, and resources for
-all your creative projects — photography, graphic design, video editing, UX
+all your creative projects — photography, graphic design, video editing, UX,
 design, drawing and painting, social media, and more.
 
 Adobe Creative Cloud helps you bring your creative projects to life in
