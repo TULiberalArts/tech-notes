@@ -26,7 +26,7 @@ endorsement of an administrative or faculty sponsor with the request.
 
 #### Prerequisites
 
-If you have not already signed up for Multi-Factor Authentication you
+If you have not already signed up for [Multi-Factor Authentication][3] you
 will need to do so to access the remote proxy website.
 
 **Note:** If you are connecting to your Windows office computer from
