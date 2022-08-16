@@ -54,7 +54,7 @@ store before you begin. This is a free download.
       your office PC. All PCs in Liberal Arts are named after their Asset Tag
       (known as a CLATag) which is the letters CLA followed by 5 digits (e.g.
       `CLA12345`). The CLATag is a small sticker that includes the College of
-      Libearl Arts logo and a barcode and is affixed directly to the computer
+      Liberal Arts logo and a barcode and is affixed directly to the computer
       (not on the monitor).
 
       Alternatively you can specify the IP address of your office PC. If you do
