@@ -1,32 +1,32 @@
 ---
-title: Owlab
+title: OWLab
 category: Remote Access
 order: 2
 ---
 
-## What is Owlab?
+## What is OWLab?
 
-[Owlab][1] allows Temple University students, faculty, and staff
+[OWLab][1] allows Temple University students, faculty, and staff
 remote access to a TECHcenter-like virtual machine in the cloud.
 
-With Owlab you can connect to a Windows computer running in the cloud
+With OWLab you can connect to a Windows computer running in the cloud
 from another Windows or Mac computer from on or off campus.
 
-## Who can access Owlab?
+## Who can access OWLab?
 
 Students, faculty, and staff with an active AccessNet account have access to
-Owlab at Temple University. If you believe you should have access but are
-unable to sign in to the Owlab website, please [submit a TUhelp request][2] to
+OWLab at Temple University. If you believe you should have access but are
+unable to sign in to the OWLab website, please [submit a TUhelp request][2] to
 request access. Non-employees will need to specify the business need for access
 to the resource and include a written endorsement of an administrative or
 faculty sponsor with the request.
 
-## How to access Owlab
+## How to access OWLab
 
 #### Prerequisites
 
 If you have not already signed up for [Multi-Factor Authentication][3] you
-will need to do so to access the Owlab website.
+will need to do so to access the OWLab website.
 
 #### Connecting
 
