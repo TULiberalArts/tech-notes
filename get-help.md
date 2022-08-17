@@ -7,7 +7,7 @@ published: true
 
 <div class="get-help">
 <center>
-    <form action="https://tuhelp.temple.edu/dwp/rest/share/OJSXG33VOJRWKVDZOBST2U2CL5IVKRKTKREU6TSOIFEVERJGORSW4YLOOREWIPJQGAYDAMBQGAYDAMBQGAYDAMJGOJSXG33VOJRWKSLEHU2DAJTDN5XHIZLYORKHS4DFHVBUCVCBJRHUOX2IJ5GUK===" method="get" target="_blank">
+    <form action="https://tuhelp-dwp.onbmc.com/dwp/rest/share/OJSXG33VOJRWKVDZOBST2U2CL5IVKRKTKREU6TSOIFEVERJGORSW4YLOOREWIPKBI5DUKU2FIE3EEU2PKBFECUSGKVNEIM2SIZKVURBTKRCVASBGOJSXG33VOJRWKSLEHUYTEMBQGETGG33OORSXQ5CUPFYGKPKDIFKECTCPI5PUQT2NIU======" method="get" target="_blank">
         <button type="submit">Submit help Request</button>
     </form>
 </center>
