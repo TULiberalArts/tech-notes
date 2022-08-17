@@ -3,9 +3,6 @@ url: "https://cla.temple.edu/"
 baseurl: "/tech-notes"
 show_full_navigation: false
 
-google:
-  api_key: AIzaSyAgRrYGiRGQqegOfYGVBtXHwnyRXc4g4D4
-
 permalink: pretty
 
 plugins:

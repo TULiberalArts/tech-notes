@@ -40,8 +40,6 @@ in the front of the Mazur Hall computer lab in room 21.
 The Help Desk is located on the ground floor of the TECH Center in room 106 of
 the Bell Building at [N. 12th Street and Montgomery Ave][3].
 
-{% include map.html %}
-
 In addition to [TUhelp][1], the Temple University Help Desk can be reached via
 email [help@temple.edu](mailto://help@temple.edu), telephone
 [215-204-8000](tel://215-204-8000), or live chat by clicking on the green
