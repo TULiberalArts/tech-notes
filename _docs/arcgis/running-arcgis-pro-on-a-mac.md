@@ -30,7 +30,7 @@ two methods:
    application such as [VMware Fusion][3], [Parallels][4], or [Oracle VM
    VirtualBox][5].** This option enables running Windows inside your Mac's host
    operating system without the need to restart your Mac to boot into Windows.
-   Please reference the [minimum system requirements][8] for installing ArcGIS
+   Please reference the [minimum system requirements][6] for installing ArcGIS
    Pro in a virtual machine on macOS.
 
    See ESRI's [Run ArcGIS Pro on a Mac][7] to get started.
