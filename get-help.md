@@ -7,7 +7,7 @@ published: true
 
 <div class="get-help">
 <center>
-    <form action="https://help.temple.edu/TDClient/277/Portal/Requests/TicketRequests/NewForm?ID=H8dH95SfvXI_&RequestorType=Service" method="get" target="_blank">
+    <form action="https://help.temple.edu/TDClient/277/Portal/Requests/ServiceDet?ID=11484" method="get" target="_blank">
         <button type="submit">Submit help Request</button>
     </form>
 </center>
