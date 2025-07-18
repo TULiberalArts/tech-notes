@@ -7,7 +7,7 @@ published: true
 
 <div class="get-help">
 <center>
-    <form action="https://tuhelp-dwp.onbmc.com/dwp/rest/share/OJSXG33VOJRWKVDZOBST2U2CL5IVKRKTKREU6TSOIFEVERJGORSW4YLOOREWIPKBI5DUKU2FIE3EEU2PKBFECUSGKVNEIM2SIZKVURBTKRCVASBGOJSXG33VOJRWKSLEHUYTEMBQGETGG33OORSXQ5CUPFYGKPKDIFKECTCPI5PUQT2NIU======" method="get" target="_blank">
+    <form action="https://help.temple.edu/TDClient/277/Portal/Requests/TicketRequests/NewForm?ID=H8dH95SfvXI_&RequestorType=Service" method="get" target="_blank">
         <button type="submit">Submit help Request</button>
     </form>
 </center>
@@ -15,7 +15,7 @@ published: true
 <br/>
 
 For all technology related support requests, please submit a request online
-using [https://tuhelp.temple.edu][1]. TUhelp is an online service for creating,
+using [https://help.temple.edu][1]. TUhelp is an online service for creating,
 updating, and monitoring the status of your support requests.
 
 > When making requests via [TUhelp][1], specifying "CLA IT" as the referral
@@ -51,7 +51,7 @@ When semesters are in-session, the Help Desk is open 24 hours from Sunday at
 Hours are published on the [Help Desk Hours][4] page.
 
 
-[1]: https://tuhelp.temple.edu
 [2]: https://its.temple.edu/technical-support
+[1]: https://help.temple.edu
 [3]: https://www.temple.edu/maps-and-directions/
 [4]: https://its.temple.edu/technical-support#534

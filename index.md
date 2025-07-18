@@ -18,4 +18,4 @@ The content and source code of this website is hosted on
 [GitHub](https://github.com/TULiberalArts). Content corrections are welcome via
 [pull request](https://github.com/TULiberalArts/tech-notes/pulls).
 
-Please use [TUhelp](https://tuhelp.temple.edu) for all support requests.
+Please use [TUhelp](https://help.temple.edu) for all support requests.
