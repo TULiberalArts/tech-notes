@@ -35,23 +35,19 @@ Computer labs located within the College Liberal Arts are directly supported by
 Liberal Arts Information Technology staff (CLA IT). CLA IT offices are located
 in the front of the Mazur Hall walk-in computer lab in room 21.
 
-## The Help Desk
+## The Technology Support Center
 
-The Help Desk is located on the ground floor of the TECH Center in room 106 of
-the Bell Building at [N. 12th Street and Montgomery Ave][3].
+The Technology Support Center (TSC) is located on the ground floor of the TECH
+Center in room 106 of the Bell Building at [N. 12th Street and Montgomery
+Ave][3].
 
-In addition to [TUhelp][1], the Temple University Help Desk can be reached via
-email [help@temple.edu](mailto://help@temple.edu), telephone
-[215-204-8000](tel://215-204-8000), or live chat by clicking on the green
-"Chat" button on the TUhelp website. In-person consultations are also available
-via walk-in during [business hours][2].
+In addition to [TUhelp][1], the TSC can be reached via email
+[help@temple.edu](mailto://help@temple.edu), telephone
+[215-204-8000](tel://215-204-8000), or live chat by clicking on the "Chat"
+button on the TUhelp website. In-person consultations are also available via
+walk-in during [business hours][2].
 
-When semesters are in-session, the Help Desk is open 24 hours from Sunday at
-10:30 AM through Friday at 5:00 PM and Saturdays from 10:30 AM to 7:00 PM.
-Hours are published on the [Help Desk Hours][4] page.
-
-
-[2]: https://its.temple.edu/technical-support
 [1]: https://help.temple.edu
+[2]: https://its.temple.edu/tech-help
 [3]: https://www.temple.edu/maps-and-directions/
 [4]: https://its.temple.edu/technical-support#534
