@@ -21,19 +21,19 @@ updating, and monitoring the status of your support requests.
 > When making requests via [TUhelp][1], specifying "CLA IT" as the referral
 > consultant will help expedite your request to the attention of CLA IT support
 > staff.
-
+s
 ## Help in a Classroom
 
 For help in a classroom, press the **Help Button** located on the podium
 touch-screen control system.
 
-Pressing the help button will immediately alert Classsrrom Technical Support
+Pressing the help button will immediately alert Classroom Technical Support
 (CTS) staff. Classrooms across campus are supported by CTS staff who are based
 out of offices close to the locations they support.
 
 Computer labs located within the College Liberal Arts are directly supported by
 Liberal Arts Information Technology staff (CLA IT). CLA IT offices are located
-in the front of the Mazur Hall computer lab in room 21.
+in the front of the Mazur Hall walk-in computer lab in room 21.
 
 ## The Help Desk
 
