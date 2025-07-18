@@ -42,8 +42,8 @@ Center in room 106 of the Bell Building at [N. 12th Street and Montgomery
 Ave][3].
 
 In addition to [TUhelp][1], the TSC can be reached via email
-[help@temple.edu](mailto://help@temple.edu), telephone
-[215-204-8000](tel://215-204-8000), or live chat by clicking on the "Chat"
+[help@temple.edu](mailto:help@temple.edu), telephone
+[215-204-8000](tel:2152048000), or live chat by clicking on the "Chat"
 button on the TUhelp website. In-person consultations are also available via
 walk-in during [business hours][2].
 
