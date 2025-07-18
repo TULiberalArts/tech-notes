@@ -17,10 +17,10 @@ campus, [additional steps are required][5].
 
 Most employees and some additional audiences have access to Remote Proxy at
 Temple University. If you believe you should have access but are unable to sign
-in to the Remote Proxy website, please [submit a TUhelp
-request](https://tuhelp.temple.edu) to request access. Non-employees will need
-to specify the business need for access to the resource and include a written
-endorsement of an administrative or faculty sponsor with the request.
+in to the Remote Proxy website, please submit a [TUhelp request]({{ '/get-help'
+| relative_url }}) to request access. Non-employees will need to specify the
+business need for access to the resource and include a written endorsement of
+an administrative or faculty sponsor with the request.
 
 ## How to access Remote Proxy?
 
@@ -86,11 +86,12 @@ store before you begin. This is a free download.
 
 7. You may be prompted to save a file to your computer. Otherwise, it will be
    downloaded automatically to your Downloads folder. The file begins with app
-   and ends in .rdp (e.g., `app_15842938212.rdp`). If you are using the Chrome
-   or Safari web browser, the file will appear on the lower-left/bottom-left
-   corner of the browser. If you are using Microsoft Edge or Firefox, the
-   downloaded file will appear on the upper-right/top-right corner of the
-   browser. Click on this file to begin the remote connection process.
+   and ends in `.rdp` (e.g., `app_15842938212.rdp`). If you are using the
+   Chrome or Safari web browser, the file will appear on the
+   lower-left/bottom-left corner of the browser. If you are using Microsoft
+   Edge or Firefox, the downloaded file will appear on the
+   upper-right/top-right corner of the browser. Click on this file to begin the
+   remote connection process.
 
 8. If you receive a warning prompting you if you would like to connect:
 

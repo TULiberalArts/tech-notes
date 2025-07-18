@@ -14,4 +14,4 @@ some content may apply more broadly to Temple University. Links to official
 Temple University resources, policies, and documentation will be provided
 whenever possible.
 
-Please use [TUhelp](https://help.temple.edu) for all support requests.
+Please use [TUhelp]({{ '/get-help' | relative_url }}) for all support requests.

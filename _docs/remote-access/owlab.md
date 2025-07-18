@@ -16,16 +16,16 @@ from another Windows or Mac computer from on or off campus.
 
 Students, faculty, and staff with an active AccessNet account have access to
 OWLab at Temple University. If you believe you should have access but are
-unable to sign in to the OWLab website, please [submit a TUhelp request][2] to
-request access. Non-employees will need to specify the business need for access
-to the resource and include a written endorsement of an administrative or
-faculty sponsor with the request.
+unable to sign in to the OWLab website, please submit a [TUhelp request]({{
+'/get-help' | relative_url }}) to request access. Non-employees will need to
+specify the business need for access to the resource and include a written
+endorsement of an administrative or faculty sponsor with the request.
 
 ## How to access OWLab
 
 #### Prerequisites
 
-If you have not already signed up for [Multi-Factor Authentication][3] you
+If you have not already signed up for [Multi-Factor Authentication][2] you
 will need to do so to access the OWLab website.
 
 #### Connecting
@@ -38,13 +38,13 @@ will need to do so to access the OWLab website.
 
 
 2. You will be redirected to the familiar Temple University Single Sign-On
-   page. Enter your Temple Universit AccessNet account credentials and sign in.
+   page. Enter your Temple University AccessNet account credentials and sign in.
 
     ![]({{ '/assets/img/tu-sso-login.png' | relative_url }})
 
 
 3. Complete the Multifactor authentication process. For more information,
-   see the [Multifactor Authentication website][3].
+   see the [Multifactor Authentication website][2].
 
     ![]({{ '/assets/img/sso-mfa.png' | relative_url }})
 
@@ -73,5 +73,4 @@ will need to do so to access the OWLab website.
 Email in your browser you may not have to complete steps 2-4 above.
 
 [1]: https://owlab.temple.edu
-[2]: https://tuhelp.temple.edu
-[3]: https://tuportal6.temple.edu/web/its/multi-factor-authentication
+[2]: https://tuportal6.temple.edu/web/its/multi-factor-authentication

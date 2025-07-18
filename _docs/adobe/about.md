@@ -49,7 +49,7 @@ trial mode, Sign out of the Adobe Creative Cloud desktop application and
 then sign back in again with your AccessNet account.
 
 If you experience any issues using Adobe Creative Cloud, please submit
-a [TUhelp request](https://tuhelp.temple.edu).
+a [TUhelp request]({{ '/get-help' | relative_url }}).
 
 
 

@@ -17,10 +17,9 @@ actively enrolled students, faculty, and staff at Temple University access to
 ArcGIS Pro and ArcGIS Online.
 
 If you require assistance with additional ESRI services, software, or
-licensing, please submit a [TUhelp request][2].
+licensing, please submit a [TUhelp request]({{ '/get-help' | relative_url }}).
 
 
 [1]: http://www.esri.com/
-[2]: https://tuhelp.temple.edu/dwp/rest/share/OJSXG33VOJRWKVDZOBST2U2CL5IVKRKTKREU6TSOIFEVERJGORSW4YLOOREWIPJQGAYDAMBQGAYDAMBQGAYDAMJGOJSXG33VOJRWKSLEHUYTEMBQGETGG33OORSXQ5CUPFYGKPKDIFKECTCPI5PUQT2NIU======
 
 
