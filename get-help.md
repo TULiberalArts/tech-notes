@@ -21,7 +21,7 @@ updating, and monitoring the status of your support requests.
 > When making requests via [TUhelp][1], specifying "CLA IT" as the referral
 > consultant will help expedite your request to the attention of CLA IT support
 > staff.
-s
+
 ## Help in a Classroom
 
 For help in a classroom, press the **Help Button** located on the podium
